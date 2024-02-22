@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "手法/匹配是否包含字符.md",
-                "mode": "preview",
+                "file": "手法/提取第一组数字.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "手法/匹配是否包含字符.md",
+                "file": "手法/提取第一组数字.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "手法/匹配是否包含字符.md",
+                "file": "手法/提取第一组数字.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "手法/匹配是否包含字符.md"
+                "file": "手法/提取第一组数字.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "b4f879cc04620f2a",
   "lastOpenFiles": [
-    "手法/提取字符串里的信息.md",
     "手法/匹配是否包含字符.md",
+    "手法/提取第一组数字.md",
+    "手法/提取字符串里的信息.md",
     "手法"
   ]
 }
