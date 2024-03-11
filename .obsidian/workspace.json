@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fe16054785708252",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "手法/提取第一组数字.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,7 +171,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b4f879cc04620f2a",
+  "active": "fe16054785708252",
   "lastOpenFiles": [
     "手法/匹配是否包含字符.md",
     "手法/提取第一组数字.md",
